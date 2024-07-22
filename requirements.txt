@@ -4,4 +4,5 @@ streamlit-option-menu
 protobuf~=3.19.0
 streamlit_lottie
 requests
-
+themoviedb
+tmdbsimple
