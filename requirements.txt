@@ -1,7 +1,7 @@
 gunicorn
 streamlit
 #streamlit-option-menu
-protobuf~=3.19.0
+#protobuf~=3.19.0
 #streamlit_lottie
 requests
 themoviedb
